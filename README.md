@@ -11,7 +11,12 @@
 
 - 📄 Know about my experiences [My online resume, CV]([https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/Muntasir-mamun-resume.pdf](https://cvbuilder.me/resume/en/d3fa3eb3-7414-4f89-9984-b0c50e3534a9))
 
+### Socials
 
+<p align="left"> 
+<a href="mailto: Work.MatinRasoulzad@gmail.com" target="_blank" rel="noreferrer"><img src="gmail.svg" width="40" height="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/matin-rasoulzad/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="40" height="40" padding-top= "100px" /></a> 
+</p>
 ## **Data scientist, AI developer**
 ![Data scientist, AI developer](https://github.com/Matin-Rasoulzad/Matin-Rasoulzad/blob/main/Banner2.png)
 
