@@ -1,5 +1,17 @@
 # Hi there ✨, My name is Matin Rasoulzad
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Amsterdam&weight=1000&size=30&letterSpacing=&duration=3000&pause=500&color=1413F7&width=435&lines=Matin+Rasoulzad" alt="Typing SVG" /></a>
+
+- 🔭 I’m currently working on [Deep Learning Regression, Forecasting Models]([https://muntasir-mamun7.github.io/g3-arch/](https://github.com/Matin-Rasoulzad?tab=repositories))
+
+- 🌱 I’m currently learning **Deep Learning, Machine Learning**
+
+- 👨‍💻 All of my projects are available at [My Github repos]([https://muntasir-mamun7.github.io/g3-arch/](https://github.com/Matin-Rasoulzad?tab=repositories))
+
+- 📫 How to reach me **Work.MatinRasoulzad@gmail.com** | [LinkedIn](linkedin.com/in/matin-rasoulzad/)
+
+- 📄 Know about my experiences [My online resume, CV]([https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/Muntasir-mamun-resume.pdf](https://cvbuilder.me/resume/en/d3fa3eb3-7414-4f89-9984-b0c50e3534a9))
+
+
 ## **Data scientist, AI developer**
 ![Data scientist, AI developer](https://github.com/Matin-Rasoulzad/Matin-Rasoulzad/blob/main/Banner2.png)
 
