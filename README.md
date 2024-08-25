@@ -43,6 +43,11 @@ I am a Data Scientist and AI Developer currently pursuing my studies at Kharazmi
 
 ### **Some of my recent projects**
 
+- 1️⃣ [The Impact of BARJAM (JCPOA) Cancellation on the Iranian Dollar Exchange Rate](https://github.com/Matin-Rasoulzad/The-Impact-of-BARJAM--JCPOA--Cancellation-on-the-Iranian-Dollar-Exchange-Rate)
+- 2️⃣ [Food Image classification using CNN](https://github.com/Matin-Rasoulzad/Food-Image-classification-using-CNN)
+- 3️⃣ [Google Play Store EDA](https://github.com/Matin-Rasoulzad/Google-Play-Store-EDA)
+- 4️⃣ [Dollor Rate Forecasting (WIP)]()
+- 5️⃣ [Uber Taxi Fare Prediction In NYC (WIP)]()
 
 
 
