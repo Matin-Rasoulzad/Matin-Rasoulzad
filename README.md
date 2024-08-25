@@ -17,6 +17,7 @@
 <a href="mailto: Work.MatinRasoulzad@gmail.com" target="_blank" rel="noreferrer"><img src="gmail.svg" width="40" height="40" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/matin-rasoulzad/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="40" height="40" padding-top= "100px" /></a> 
 </p>
+
 ## **Data scientist, AI developer**
 ![Data scientist, AI developer](https://github.com/Matin-Rasoulzad/Matin-Rasoulzad/blob/main/Banner2.png)
 
