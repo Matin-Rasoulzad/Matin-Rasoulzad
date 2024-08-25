@@ -28,6 +28,22 @@ I am a Data Scientist and AI Developer currently pursuing my studies at Kharazmi
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Sublime's custom image"/>
 </p>
 
+## **Projects**
+
+### **Gallary**
+<p align="center">
+  <img src="./plot (1).png" alt="Sublime's custom image" width="200" height="200"/>
+</p>
+
+<p align="center">
+  <img src="./plot (2).png" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img src="./plot (3).png" alt="Sublime's custom image"/>
+</p>
+
+### **Some of my recent projects**
 
 
 
